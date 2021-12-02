@@ -1,0 +1,32 @@
+.balise1 {
+    display: flex;
+    flex-direction: raw-reverse;
+}
+.rouge {
+    width: 50%;
+    height: 50px;
+    background: red;
+}
+.bleu {
+    width: 50%;
+    height: 50px;
+    background: blue;
+}
+.vert {
+    width: 100%;
+    height: 50px;
+    background: green;
+}
+.jaune {
+    width: 100%;
+    height: 50px;
+    background: yellow;
+}
+.noir {
+    width: 100%;
+    height: 50px;
+    background: black;
+}
+div {
+    margin-bottom: 20px;
+}
